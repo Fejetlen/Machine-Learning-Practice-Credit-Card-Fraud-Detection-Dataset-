@@ -1,4 +1,4 @@
-# Machine-Learning-Practice-Credit-Card-Fraud-Detection-Dataset-
+# Gépi tanulás a hitelkártya-csalások felderítésére kiegyensúlyozatlan osztályozással
 Egy teljes körű gépi tanulási projekt, amely a Kaggle „Credit Card Fraud Detection” (hitelkártya-csalás észlelése) adatkészletét felhasználva elemzi és osztályozza a csalárd hitelkártya-tranzakciókat. A projekt kitér az adatok előfeldolgozására, a súlyos osztálykiegyensúlyozatlanság kezelésére, valamint különféle osztályozó algoritmusok teljesítményének összehasonlítására.
 
 ## 📌 A projekt áttekintése
